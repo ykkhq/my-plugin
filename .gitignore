@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Compiled Lua sources
 luac.out
 
@@ -40,7 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
-=======
 # servroot typically is the Kong working directory for tests
 servroot
 # exclude generated packed rocks
@@ -55,4 +53,3 @@ luacov.report.out
 luacov.report.html
 # exclude Pongo containerid file
 .containerid
->>>>>>> 37cbd8a (my-plugin initial commit.)
