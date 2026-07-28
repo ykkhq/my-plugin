@@ -5,10 +5,10 @@ local schema = {
     fields = {
         {config = {
             type = "record",
-			fields = {},
-		    },
+            fields = {},
+            },
         },
-	},
+    },
  }
 
  return schema
